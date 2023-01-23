@@ -32,12 +32,8 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexus</id>
-      <url>http://13.233.183.172:8081/repository/prasanth-snapshot/</url>
+      <url>http://3.111.53.10:8081/repository/prasanth-central/</url>
     </snapshotRepository>
-    <repository>
-      <id>nexus</id>
-      <url>http://13.233.183.172:8081/repository/prasanth-release/</url>
-    </repository>
   </distributionManagement>
 
 
